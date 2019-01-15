@@ -16,7 +16,6 @@
     width: 70%;
     margin: 0 auto;
   }
-
   .btn {
     color:white;
     text-decoration: none;
@@ -25,10 +24,10 @@
     margin: 20px 0;
     display: inline-block;
   }
-
   .clearfix {
     clear: both;
   }
+
 
 /* NAV */
 
@@ -60,6 +59,7 @@
     margin: 0 10px ;
   }
 
+
 /* HEADER */
 
   .header {
@@ -69,23 +69,19 @@
     background-size: cover;
     padding-bottom: 30px;
   }
-
   .header-nav {
     padding: 15px;
   }
-
   .header-nav .npm-logo {
     float: left;
     width: 8%;
   }
-
   .header-nav form {
     float: left;
     margin: 0 1%;
     width: 76%;
 
   }
-
   .header-nav input {
     color: white;
     padding: 10px;
@@ -93,7 +89,6 @@
     background: rgb(31, 82, 111);
     border: 1px solid rgba(204,204,204,0.2);
   }
-
   .header-nav button {
     color: #ccc;
     padding: 10px;
@@ -101,42 +96,36 @@
     background: rgb(31, 82, 111);
     border: 1px solid rgba(204,204,204,0.2);
   }
-
   .header-sign {
     float: left;
     width: 14%;
   }
-
   .header-sign p {
     display: inline-block;
     vertical-align:  middle;
     width: 70%;
   }
-
   .header-sign a{
     text-decoration: none;
     color: white;
   }
-
   .header-sign .bear-logo {
     width: 20%;
     vertical-align: middle; 
   }
 
   /* end of header bar*/
-
   .header-content {
     display: inline-block;
     width: 60%;
   }
-
   .header-content p {
     margin: 20px;    
   }
-
   .header-content .btn {
     background: rgb(240,146,51);
   }
+
 
   /* SECTION 1 */
 
@@ -145,36 +134,31 @@
     background: rgb( 39, 53, 71);
     padding: 50px 0;
   }
-  
   #section-1 img {
     width: 50%;
     float: left;
   }
-  
   #section-1 .text {
     float: right;
     width: 40%;
   }
-
   #section-1 h2 {
     margin-bottom: 10px;
   }
-
   #section-1 li {
     margin: 10px 0;
   }
-
   #section-1 .btn {
     background: rgb( 203, 56, 55);
     font-weight: 300;
     margin-bottom: 0px;
   }
-
   #section-1 a {
     text-decoration: none;
     color: white;
     font-weight: 600;
   }
+
 
 /* SECTION 2 */
 
@@ -185,20 +169,18 @@
     padding: 100px 0;
     position: relative;
   }
-
   #section-2 .container {
     padding: 100px 0;  
   }
-
   #section-2 .text {
     width: 30%;
     top: 100px;
     position: absolute;
   }
-
   #section-2 .btn {
     background: rgb( 49, 68, 88);
   }
+
 
   /* SECTION 3 */
 
@@ -207,16 +189,13 @@
     text-align: center;
     padding: 20px;
   }
-
   #section-3 .heading {
     margin-bottom: 30px;
   }
-
   #section-3 .heading h2 {
     margin-bottom: 30px;
     color: rgb( 83, 88, 98);
   }
-
   #section-3 .box {
     display: inline-block;
     width: 33%;
@@ -224,19 +203,16 @@
     padding: 20px 40px ;
     margin-top: 0px;
   }
-
   #section-3 img {
     width:60%;
     height:100%;
     padding: 20px;
   }
-
   #section-3 h4{
     font-weight: 600;
     margin: 15px 0;
     color: rgb( 83, 88, 98);
   }
-
   #section-3 a {
     font-weight: 600;
     text-decoration: none;
